@@ -1,4 +1,21 @@
 import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JLabel;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+import javax.swing.JTextPane;
+import javax.swing.JButton;
+import javax.swing.JEditorPane;
+
+import com.jgoodies.forms.factories.DefaultComponentFactory;
+
+import javax.swing.JLayeredPane;
 
 
 public class BMI extends JFrame {
